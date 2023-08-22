@@ -1,0 +1,17 @@
+body{
+    margin: 50px;
+}
+#elem1{
+    color: red;
+    font-size: 60px;
+    border: solid red;
+    
+}
+#elem2{
+    width: 230px;
+    height: 230px;
+    margin-left: 20px;
+    border: 1px solid;
+    color: gray;
+    box-shadow: 2px 2px 2px 2px ;
+}
